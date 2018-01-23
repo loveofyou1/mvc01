@@ -16,6 +16,5 @@
     <!-- scan the package and the sub package -->
     <mvc:annotation-driven/>
     <context:component-scan base-package="sun"/>
-
     <!--<aop:aspectj-autoproxy/>-->
 </beans>
